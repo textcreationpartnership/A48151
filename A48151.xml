@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a baron of England, relating to the late bill, concerning His Royal Highnesse</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48151</idno><idno type="EEBO-CITATION">18208443</idno>
+  <idno type="VID">107132</idno>
+  <idno type="EEBO-PROQUEST">2248544349</idno>
+  
+            <idno type="STC">Wing L1631</idno>
+            <idno type="STC">ESTC R39064</idno>
+            <idno type="OCLC">18208443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1127:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a baron of England, relating to the late bill, concerning His Royal Highnesse</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107132:1"/>
+            <p>A LETTER TO A BARON OF ENGLAND, RELATING TO THE Late BILL, CONCERNING HIS ROYAL HIGHNESSE.</p>
+            <p>
+               <hi>Loyaulte mi lie</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:107132:2"/>
+            <pb n="1" facs="tcp:107132:2"/>
+            <head>A Letter to a Baron of <hi>England</hi> relating to the late Bill concerning his <hi>Royal Highness.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOu may remember that in the Session 1673, there was a Project of an Act of Parliament, that the Heir of the Crown should not marry a Papist, without Consent of Parliament; which I did then a little sally upon in a Letter to your Lordship: but that Design, with the Author being soon after laid a<g ref="char:EOLhyphen"/>side, I shall not at all reflect upon; for now that Vizard being thrown by, and the bare-fac'd way of proceeding against the Duke of <hi>York</hi> in a Bill of the Lower House being trump'd up in the room of it, which as it may be believed may be recalled this next Parliament, con<g ref="char:EOLhyphen"/>sidering the present posture in relation to Election, I shall with all hu<g ref="char:EOLhyphen"/>mility animadvert upon it to your Lordship; where I shall take no no<g ref="char:EOLhyphen"/>tice of the Pampleteers of either side, or their impertinent Scripture-presidents, but barely lay down my own Sentiments of what may in probability happen in the Case. It is generally resolved that no man loves to be deceived, and I think, if possible, fewer to be undeceived; for the former is only an Argument of humane frailty, coincident to all Mankind; when as the latter magnifies the Director or Undeceiver more than usually can be grateful to the relieved person, considering the pride of humane Nature; yet it is not so amongst the Ingenious: I shall therefore, having more than moral assurance of your Lordships Candor, make some Remarks upon the Business, from former Exam<g ref="char:EOLhyphen"/>ples, that being the only true way of taking measure of Contingences, or what may hereafter happen upon parallel or like occasions. The interruption of the Succession has often been successefully enough at<g ref="char:EOLhyphen"/>tempted as to your Walls; yet when those Acts were expected to work, as to other places they signified but little. The first time that ever the <hi>Parliament</hi> took notice of it, was in the time of <hi>Henry</hi> 4; who having deposed <hi>Richard</hi> 2; a Crime I need not aggravate, and wa<g ref="char:EOLhyphen"/>ving the pretended Title of <hi>Edmond Crouchback;</hi> whether called so, from being <hi>Crossed</hi> to the Holy Land, or from some deformity, or both, I'le not determine. The <hi>Crowns</hi> of <hi>England</hi> and <hi>France</hi> were entailed upon the Heirs of his Body, and likewise upon the Heirs of his four Sons, and confirmed by <hi>Act of Parliament;</hi>
+               <note place="margin">S. W. R. Pref.</note> and who could have thought but that these Cautious <hi>Provisi<g ref="char:EOLhyphen"/>ons seconded by the Valour and prodigious Success of that Noble Prince</hi> Henry 5. <hi>had buried the Hopes of every Competitor under the despair of recovery,</hi> yet when <hi>Richard</hi> Duke of <hi>York</hi> made his claim in the House of Lords, <hi>Henry</hi> 6. then living, though corroborated by the Circum<g ref="char:EOLhyphen"/>stance of <hi>R.</hi> 2. his Resignation, this Entail was never talk'd on: nor had that Act the honour to be repealed in <hi>Edw.</hi> the Fourth's time; so little respect was given to that Act of Disherison. Such a kind of Act
+<pb n="2" facs="tcp:107132:3"/>was passed by <hi>Rich.</hi> 3. to confirm his Title, with the like success. The next that came upon the Stage, was <hi>Henry</hi> 7. who waving his <hi>Queen,</hi> whose Title was without question, setled the <hi>Crown</hi> upon his own Heirs by Act of <hi>Parliament,</hi> as the Chronicles tell us, (not without authority I suppose) though it be left out in the <hi>Printed Statutes;</hi> yet being not at all satisfied with that Settlement, was wonderful jealous of all of the House of <hi>York:</hi> witness his usage of the Innocent <hi>Earl</hi> of <hi>Warwick,</hi> and his in a manner forcing the <hi>Earl</hi> of <hi>Lincoln</hi> out of the Hands of the <hi>Arch-Duke,</hi> to an <hi>English</hi> Prison; and though his Ti<g ref="char:EOLhyphen"/>tle never came to be disputed, <hi>God</hi> better providing for this Nation; yet it may be more than probably presumed, by what happened be<g ref="char:EOLhyphen"/>fore, that his Issue by another Lady, could not have had better Suc<g ref="char:EOLhyphen"/>cess against the <hi>Princely</hi> House of <hi>York,</hi> than <hi>Adonijah</hi> had against <hi>Solo<g ref="char:EOLhyphen"/>mon.</hi> Afterwards in the 25 of <hi>Hen.</hi> 8. <hi>Cap.</hi> 22. it was Enacted after a specious Pretence of calling to mind Divisions which in time past had been within this <hi>Realm, by reason of several Titles pretended to the Im<g ref="char:EOLhyphen"/>perial Crown, which for the most part proceeded out of Ambiguities and Doubts then not so perfectly understood, but that men might upon froward intents expound them to every mans sinister Appetite and Affection (which by the way</hi> is begging the Question, for in truth no Act can settle a Discent surer than the Common Law has done) and so goes on, after a long Preamble (too large here to insert) to the Body of the Act, which is to the Disherison of Lady <hi>Mary,</hi> and settles the Crown by special words, upon his Issue Female, for want of Issue Male by the <hi>Lady Anne Bullen.</hi> But now see the Vanity of worldly Affairs; the same King in the 28th, Year of his Reign, <hi>Cap.</hi> 7. caused another Act to pass, wherein he Bastardized and made illegitimate to all intents and pur<g ref="char:EOLhyphen"/>poses the Issues betwixt him and the Lady <hi>Anne Bullen,</hi> and barr'd them to <hi>Claim, Challenge or Demand any Inheritance as Lawful Heir, or Heirs to him by Lineal Descent,</hi> the said former Act to the contrary notwith<g ref="char:EOLhyphen"/>standing, and did so strengthen this last Act by Words, if Words have any strength in them, as never any was; for he made it Treason for any by <hi>Words, Writing, Printing, or any other exterior Act directly, or indire<g ref="char:EOLhyphen"/>ctly to call any of the Children born under the unlawful Marriages</hi> (viz) <hi>of</hi> Katherine <hi>and</hi> Anne Bullen <hi>legitimate:</hi> And to make the thing more sure, it was Enacted That <hi>an Oath should be Administred of bearing Faith, Truth and Obedience to Himself for Life, and after, to his Heirs of the Lady</hi> Jane Seamour <hi>begotten, and to be begotten, and further to the Heirs of the King according to the Limitation in this Act made.</hi> And fur<g ref="char:EOLhyphen"/>ther, by the said Act it is enjoyned, That all <hi>Subjects as well Spiritual, as Temporal, suing Livery or</hi> Oustrelemain, <hi>or doing Fealty by reason of the Tenure of their Lands, shall take this Corporal Oath; and if any shall wilfully refuse it, or when he shall be examined upon Interrogatories, shall Protest, and say, for or concerning the Act, that they be not bound to declare their Thoughts and Conscience, and stifly thereon abide, that then every such person so doing, for every such Offence, shall be taken, and ac<g ref="char:EOLhyphen"/>cepted for an Offender in High Treason, and shall suffer Pains according<g ref="char:EOLhyphen"/>ly as they are in the Act limited and appointed.</hi>
+            </p>
+            <p>And now to confirm you, My Lord, in the Vanity of this Provision about Succession, <hi>The same King enacts,</hi> and I think the Term proper
+<pb n="3" facs="tcp:107132:3"/>enough as to him, the 35th. of his Reign, <hi>C.</hi> 1. <hi>That for default of Prince</hi> Edw. <hi>and others the Heirs of his own Body, the Crown shall descend to Princess</hi> Mary, <hi>and her Heirs, and for default of her, to Princess</hi> Eliza<g ref="char:EOLhyphen"/>beth <hi>and her Heirs;</hi> without the least taking notice of their being for merly so signally Bastardized, or Repealing the said Acts; and then for default of these two Princesses, to the use of his Letters Patents, under his Great Seal; or <hi>his last Will in Writing, and signified with his most Gracious Hand;</hi> which was accordingly made, and by it he Bar<g ref="char:EOLhyphen"/>red upon the Failer of his own Issue, the Issue of his Elder Sister, af<g ref="char:EOLhyphen"/>firming, <hi>That the cold Air of</hi> Scotland <hi>had frozen up the Blood Royal of</hi> England <hi>in the North,</hi> and setled the Remainder upon the Issue of <hi>Mary</hi> the younger Sister; and upon failure of them, to his right Heirs. We will now examine, by your Lordships good leave, what became of those strong and prepens'd Settlements, contrary to the Common Law, of <hi>Henry</hi> 8. for you have already had an Account of what did, or might probably have become of the rest: No sooner was <hi>Edw.</hi> the 6th. dead, but his Sister <hi>Mary,</hi> notwithstanding the <hi>Proclamation</hi> of <hi>Jane,</hi> boldly pretended to the <hi>Crown,</hi> as her Right, Nay, the <hi>Norfolk</hi> and <hi>Suffolk</hi> Gentlemen, though she had given suf<g ref="char:EOLhyphen"/>ficient Testimony of her averseness to the <hi>Religion</hi> then established, were the first and chiefest, that without respect to, or the least talk<g ref="char:EOLhyphen"/>ing of the unrepealed Act of <hi>Illegitimation,</hi> asserted her Right, and that so powerfully, that the Duke of <hi>Northumberland,</hi> then Queen <hi>Janes</hi> General, proclaimed her himself at <hi>Cambridge.</hi> The like Fate had the Act of <hi>Illegitimation</hi> against Queen <hi>Elizabeth;</hi> whose coming to the Crown was not in the least disputed by the greatest Abettors of Popery, though she had given Testimony against it; but accepted by all, even by a <hi>Popish Parliament,</hi> then sitting at <hi>Westminster;</hi> and ac<g ref="char:EOLhyphen"/>cordingly by them proclaimed <hi>Queen;</hi> though it is more than probable that some Members of that Parliament had been so formerly, when she was Illegitimated to all intents and purposes: from whence it may be observed that though the <hi>English</hi> are great <hi>Bigots</hi> in Points of Religion, yet they are greater in Point of Regal Succession; otherwise these two Princes would have found more difficulty than they did in the latter.</p>
+            <p>Some may now object, That these two last Princesses claiming by the Act of Settlement, facilitated their Succession, and so that those Examples are improper; but it may be presumed, their Descent was the stronger Argument, as it may appear by what I shall now offer; for when King <hi>James</hi> came to the Crown, King <hi>Henry</hi>'s Will, though Confirmed <hi>Primo Elizabethae, C.</hi> 3. was no more taken notice of than an Old Almanack, nor so much as pleaded by <hi>Cobham, Brooks, Watson</hi> the Priest, nor any of that Gang of Conspirators, though they made use of a very weak Plea, that is, of the King's not being Crowned. It's true, there is a Forreign President for the Successions, in point of Religion, of the <hi>Swedes,</hi> in the Case of <hi>Sigismund</hi> of <hi>Poland,</hi> That none should enjoy any Lands in, nor consequently be King of <hi>Sweden,</hi> that was not of the <hi>Augustan</hi> Confession; and as it is yet in <hi>Poland,</hi> as I have been informed, none is to be King that will not hear <hi>Mass</hi> once a year. But these being degenerated into Elective Kingdoms,
+<pb n="4" facs="tcp:107132:4"/>the States or Electors may Impose any Terms on the Elected, without any Injustice at all, like some of the <hi>Americans,</hi> who chuse him King that can endure the longest with a Log upon his shoulders; but this is not, nor ought to be a President to any Hereditary Monarchy.</p>
+            <p>Thus, My Lord, I have given you the Sence of the Business; withal telling your Lordship, let Peoples Countenances be now what they will, you'l find upon occasion, they will be as zealous for the De<g ref="char:EOLhyphen"/>scent according to Common Law, as their Ancestors. Besides all these Examples, you may remember, My Lord, what happened since 1648, since when the Government has altered, as some of the Nation may very well remember, oftner than <hi>Laban</hi> changed <hi>Jacob</hi>'s Wages, and still the more forcibly to defeat the Succession, what Laws by the Powers were made, what Engagements to secure the Usurpation? Did they not divide the Crown and Church-Lands, besides Delinquents E<g ref="char:EOLhyphen"/>states, as they they term'd them, among their Soldiers, the better to as<g ref="char:EOLhyphen"/>certain their unjust acquisitions? Did not all those Powers, as they succee<g ref="char:EOLhyphen"/>ded, as one man, endeavour to keep out the right Heir? Now what followed? No sooner did they grow weary, but the power devolv<g ref="char:EOLhyphen"/>ed into such hands, as the most proper way to secure themselves, brought the Succession into the right Channel again. Nay that Army that was not to be beaten by all the joint Powers of the World, were so tired with those often Changes, that they grew so tame, as to suffer many of their Officers to be hang'd, and themselves, to the Eternal Fame of their great Captain, Disbanded, and stripp'd of all their Purchases; so powerfully did the Argument of the Heir at Law work, even with the <hi>Impious</hi> and <hi>Hireling Souldier;</hi> and so you may be sure it will again upon occasion, with every true <hi>English</hi> man of any Religion soever.</p>
+            <p>I have something now to say to your Lordship as to the <hi>Law-Part</hi> of the thing. Though it should grow an Act, it is very disputable whe<g ref="char:EOLhyphen"/>ther it be binding or no:
+<note place="margin">
+                  <hi>Hamden</hi>'s Case by <hi>Hutton,</hi> p. 25, 26.</note>
+               <hi>For there are many things so inci<g ref="char:EOLhyphen"/>dent in Power to a King, as are not in the Power of any Parlia<g ref="char:EOLhyphen"/>ment to take away, as the Power of making War and Leagues, the Power of the Coin, and the Value of Coins, and many other Monarchical Powers and Prerogatives, which to be taken away, were against Natural Reason, and are Incidents so inseparable, that they cannot be otherwise by Parliament.</hi> Your Lordship may remember what that Noble Lord said at the Opening of the <hi>October Session</hi> 1673, That the King could not sell the <hi>Fishery.</hi> Now if (My Lord) none of these can be done by any Pow<g ref="char:EOLhyphen"/>er, neither can Conditions be put upon the Succession; much less the Succession altered; for it is more incident in Power to the <hi>Crown,</hi> than any other thing whatsoever.</p>
+            <p>Wave therefore (My Lord) these kind of Thoughts for the future; for all Acts that can be made about Succession, directly or indirectly, are no more able to resist the Common Law in that Matter, than dry and untwined Flax is a Blazing <hi>Flambeau.</hi> This Device of altering the Succession hath been practised abroad to as little purpose as at home. Pray what became of that Solemn Act of State in <hi>France,</hi> of Disinheriting <hi>Charles</hi> the <hi>Dolphin,</hi> and conveying his Right to <hi>Henry</hi> the Fifth of <hi>England,</hi> in Right of his Wife <hi>Katherine</hi> of <hi>Valoys?</hi> As
+<pb n="5" facs="tcp:107132:4"/>likewise the advised Declaring the <hi>Cardinal</hi> of <hi>Burbon</hi> King, by the Name of <hi>Charles</hi> the Tenth, to the prejudice of <hi>Henry</hi> the Great, his present <hi>Majesties</hi> Royal Grandfather? Besides all this (My Lord) this matter hath an ill Aspect; it much resembles at a Blush, the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Sorbon,</hi> which <hi>prohibited Hereticks</hi> and <hi>Favourers of Here<g ref="char:EOLhyphen"/>ticks, although they obtain an outward Absolution of his, or their Crimes, if there remain any Doubt of Dissimulation, from being King:</hi> However I am sure it is parallel enough to the Practises of that Bloody House of <hi>Guise,</hi> who sent their Agents to <hi>Rome,</hi> to beseech the Consistory to approve and favour their Designs, which were <hi>to overthrow the Succession, in a full Assembly of the Estates, and to make the naming a Successor subject unto the said Estates.</hi>
+            </p>
+            <p>I have now no more to trouble your Lordship with, but only to desire you to call to mind that the Pope's Power was not thrown off in <hi>England</hi> at first upon the Account of Religion, but only as being too Unmannerly and Encroaching upon the just Prerogatives of our Princes. I make no Application, as knowing your Lordship to be so wise as not to want Assistance of that Nature, from,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your most Humble and Devoted Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
